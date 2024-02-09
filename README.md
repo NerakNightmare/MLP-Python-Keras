@@ -4,4 +4,4 @@ Multiple MLP models, designed to explore the fundamentals of neural networks
 Here you can find:
 
 #Binary Classification
-![BinaryClass](results.jpg)
+![BinaryClass](main/results.png)
