@@ -13,3 +13,6 @@ Using the Routes dataset
 
 ![Acuracy](multiAccuracy.png)
 ![Lost Function](multiLost.png)
+
+![certificate](certificate.pdf)
+
